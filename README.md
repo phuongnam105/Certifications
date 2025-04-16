@@ -6,7 +6,7 @@ These demonstrate my commitment to continuous learning and improvement in the fi
 ## 🎓 Courses & Certificates
 
 ### 🔧 Embedded Systems
-- **[Mastering Microcontroller and Embedded Driver Development – Udemy](link-to-certificate-if-available)**
+- **[Mastering Microcontroller and Embedded Driver Development – Udemy](https://github.com/phuongnam105/Certifications/blob/main/Mastering%20Microcontroller%20and%20Embedded%20Driver%20Development.pdf)**
   - Register-level STM32 programming
   - GPIO, Timer, UART driver implementation from scratch
   
