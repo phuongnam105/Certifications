@@ -10,7 +10,7 @@ These demonstrate my commitment to continuous learning and improvement in the fi
   - Register-level STM32 programming
   - GPIO, Timer, UART driver implementation from scratch
   
-- **[Advanced C Programming – Udemy](link-if-available)**
+- **[Advanced C Programming – Udemy](Advanced C programming-Certification.pdf)**
   - Pointers, memory management, structs, and optimization techniques
 
 ## 📁 How to View Certificates
