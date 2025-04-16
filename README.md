@@ -9,7 +9,7 @@ These demonstrate my commitment to continuous learning and improvement in the fi
 - **[Mastering Microcontroller and Embedded Driver Development – Udemy](link-to-certificate-if-available)**
   - Register-level STM32 programming
   - GPIO, Timer, UART driver implementation from scratch
-  - 
+  
 - **[Advanced C Programming – Udemy](link-if-available)**
   - Pointers, memory management, structs, and optimization techniques
 
